@@ -1,0 +1,15 @@
+[PropertyInfo]
+center,String,false,false, , ,true,<default>
+code,String,false,false, , ,true,<default>
+count,int,false,false, , ,false, 
+createTime,long,false,false, , ,true,<default>
+getTime,int,false,false, , ,false,<default>
+host,String,false,false, , ,true,<default>
+in,Object[],false,false, , ,true,<default>
+success,boolean,false,false, , ,true,<default>
+useTime,int,false,false, , ,true,<default>
+[IconNames]
+
+
+
+
